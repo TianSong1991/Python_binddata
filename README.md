@@ -1,0 +1,2 @@
+# Python_binddata
+Python实现文件路径下所有表的读取与合并
